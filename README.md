@@ -1,4 +1,4 @@
-# Daily-Coading-Problem-09
+# Daily-Coding-Problem-09
 
 This problem was asked by Airbnb.
 
